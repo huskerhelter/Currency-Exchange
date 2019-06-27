@@ -52,8 +52,8 @@ const currencies = [
 ];
 
 function CardComponent(props) {
-    let amountinput = props.money;
 
+    let amountinput = props.money;
     const CalcConv = props.cards.map((card)=> {
         let calccurr = amountinput*card.amount;
         return(
@@ -81,7 +81,6 @@ function CardComponent(props) {
         </React.Fragment>
     );
 }
-
 
 export default class CurrencyCard extends Component {
 
