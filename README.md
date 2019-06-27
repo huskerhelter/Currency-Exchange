@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-A React JS currency exchange small project
+A React JS currency exchange small project by Evan Tirta Wahyudi
 
 ## Available Scripts
 
